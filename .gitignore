@@ -1,0 +1,7 @@
+# The cloned target repo is rebuilt from REPO_URL + COMMIT; never commit it.
+repo/
+# Test artifacts
+*.xml
+/tmp/
+.pytest_cache/
+__pycache__/
